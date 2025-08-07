@@ -1,4 +1,4 @@
-# 👋 Hi, I'm KamylaOliveirax
+# 👋 Hi, I'm KamylaOliveira
 
 ### 🛠️ Back-End Developer | API Architect | Database Enthusiast
 
