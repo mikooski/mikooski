@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Qazi
+# 👋 Hi, I'm Miko
 
 ### 🛠️ Back-End Developer | API Architect | Database Enthusiast
 
@@ -19,8 +19,8 @@ Welcome to my GitHub! I'm a back-end developer passionate about building secure,
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=88qji&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88qji&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikooski&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikooski&layout=compact&theme=radical)
 
 ---
 
